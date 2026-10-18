@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/bmcfee/resampy/commit/67263d6fc03028d24b69e775a77d12265c7295d9",
       "git:hexsha": "67263d6fc03028d24b69e775a77d12265c7295d9",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T00:14:00.399087+00:00"
     },
     {
       "@id": "https://repolex.ai/r/bmcfee/resampy/commit/249261522fbd04ded765847cf74bf48bfa5f9a42",
